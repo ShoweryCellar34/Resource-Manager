@@ -1,7 +1,7 @@
 
 # What is Resource Mannager?
 
-Resource Manager is a very basic file resource manager.
+Resource Manager is a very basic file resource manager, probaly won't get documentation or updates. This is mostly just for use in my other projects.
 
 ## Platform support
 
