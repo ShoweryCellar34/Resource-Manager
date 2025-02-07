@@ -2,7 +2,7 @@
 
 #include <string>
 
-namespace RS::error {
+namespace RM::error {
     class exception : std::exception {
     private:
         std::string m_message;

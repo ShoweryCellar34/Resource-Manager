@@ -1,6 +1,6 @@
-#include <RS/error.hpp>
+#include <RM/error.hpp>
 
-namespace RS::error {
+namespace RM::error {
     exception::exception(const std::string& message) : m_message(message) {
     }
 
