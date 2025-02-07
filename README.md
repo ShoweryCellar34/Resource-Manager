@@ -5,7 +5,7 @@ Resource Manager is a very basic file resource manager, probaly won't get docume
 
 ## Platform support
 
-Resource Manager just uses CXX standard libraries and [CMake](https://cmake.org/), and is tested on Arch linux with KDE plasma and Windows 11/10.
+Resource Manager just uses CXX standard libraries and [CMake](https://cmake.org/), and is tested on Arch linux with Hyprland and Windows 11/10.
 
 ## How to clone
 
