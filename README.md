@@ -18,4 +18,4 @@ Run this command with [git](https://git-scm.com/) installed to clone this reposi
 2. Make the build directory `mkdir build` and move into it `cd build`.
 3. Generate the project file `cmake ..`.
 4. Build with `cmake --build .`
-5. Run the produced `Resource-Mananger` file.
+5. Run the produced `Resource-Manager` file.
